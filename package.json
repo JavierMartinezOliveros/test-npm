@@ -1,0 +1,22 @@
+{
+  "name": "test-npm",
+  "version": "1.0.0",
+  "description": "say test npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JavierMartinezOliveros/test-npm.git"
+  },
+  "keywords": [
+    "tests-npm"
+  ],
+  "author": "Javier Martinez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JavierMartinezOliveros/test-npm/issues"
+  },
+  "homepage": "https://github.com/JavierMartinezOliveros/test-npm#readme"
+}
